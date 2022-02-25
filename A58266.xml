@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the Parliament for the taking away the office and seal of the aulnagers and collecting the duty of aulnage (or a duty in lieu thereof) at the Custom-House</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58266</idno>
+            <idno type="STC">Wing R561J</idno>
+            <idno type="STC">ESTC R205859</idno>
+            <idno type="EEBO-CITATION">99825372</idno>
+            <idno type="PROQUEST">99825372</idno>
+            <idno type="VID">29753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29753)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the Parliament for the taking away the office and seal of the aulnagers and collecting the duty of aulnage (or a duty in lieu thereof) at the Custom-House</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Lpro copy found with similar items from 1691.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29753:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>REASONS <hi>Humbly Offered to the</hi> PARLIAMENT <hi>FOR THE</hi> Taking away the <hi>Office</hi> and <hi>Seal</hi> of the <hi>Aulnagers</hi> and Collecting the Duty of <hi>Aulnage</hi> (or a Duty in Lieu thereof) at the <hi>Cuſtom-Houſe.</hi>
+            </head>
+            <p>THE <hi>Office</hi> and <hi>Seal</hi> of the <hi>Aulnagers</hi> being no ways ſerviceable to the Woollen Manufactures, nor anſwering the End of their Conſtitution: And whereas the manner of Collecting the <hi>Subſidy</hi> of <hi>Aulnage</hi> is not onely very <hi>Chargeable</hi> to the Crown, but <hi>extreamly Grievous</hi> to the Subject:</p>
+            <p>It is therefore Humbly Propoſed,</p>
+            <p>That this <hi>Office</hi> and <hi>Seal</hi> ſhould be wholly taken away, and that the <hi>Subſidy</hi> of <hi>Aulnage</hi> (or a Duty not exceeding it) ſhould be Collected at the <hi>Cuſtom-Houſe</hi> with the Reſt of the Kings Cuſtoms payable there.</p>
+            <p>And if the Duty hereafter mentioned be added to and Collected at the <hi>Cuſtom-Houſe,</hi> it will being in more Money to anſwer the Intereſt of the Crown and Dutcheſs of <hi>Richmond</hi> who has a Grant from the Crown than is now paid by the <hi>Earmers,</hi> as is thus Demonſtrated.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By Accounts taken out of the <hi>Cuſtom-Houſe</hi> Books, it doth appear that the <hi>Subſidy</hi> of <hi>Poundage</hi> paid there for the Woollen Manufactures Exported, comes to one Year with another (for 18 Years laſt paſt) above <hi>per Annum.</hi>—</cell>
+                     <cell>33000</cell>
+                  </row>
+                  <row>
+                     <cell>By comparing the <hi>Aulnage</hi> Duty (as propoſed) with the <hi>Cuſtom-Houſe</hi> Duty it doth appear that the Duty of <hi>Aulnage</hi> amounts to about a ſix part of the <hi>Cuſtom-Houſe</hi> Duty: So that if it had been Collected with the Cuſtoms it wiould have amounted <hi>per Annum</hi>—</cell>
+                     <cell>5500</cell>
+                  </row>
+                  <row>
+                     <cell>There is now paid to the Dutcheſs of <hi>Richmond</hi> and others who have an Intereſt in the Duty <hi>per Annum</hi>—</cell>
+                     <cell>3138</cell>
+                  </row>
+                  <row>
+                     <cell>There was paid by the preſent <hi>Farmers</hi> a Fine of 9000 <hi>l.</hi> as they ſet forth for a Leaſe of 21 Years, (made in 81.) which may be valued at if reduced to a yearly Rent <hi>per Annum</hi>—</cell>
+                     <cell>900</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total—</cell>
+                     <cell>4038</cell>
+                  </row>
+                  <row>
+                     <cell>So that in caſe the Duty of <hi>Aulnage</hi> had been Collected at the <hi>Cuſtom-Houſe,</hi> it would have brought in ſufficient to anſwer the Intereſt of the <hi>Crown</hi> and Dutcheſs, and a conſiderable overplus of <hi>per Annum</hi>—</cell>
+                     <cell>1462</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If the <hi>Subſidy</hi> of <hi>Aulnage</hi> would have amounted to 5500 <hi>l. per Annum,</hi> if it had been Received at the <hi>Cuſtom-Houſe</hi> as is demonſtrated, then it may Rationally be concluded it may come to as much for the future if it be Collected there. The Advantages by this Change are very Obvious.</p>
+            <list>
+               <head>A particular of the Rates that are Propoſed to be added to the <hi>Cuſtom-Houſe</hi> Duty in lieu of the <hi>Aulnage.</hi>
+               </head>
+               <item>For every Long Cloth 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <note n="*" place="margin">
+                     <hi>Note,</hi> That 3 <hi>Spaniſh</hi> Cloths makes 2 Short Cloths, and 3 Kerſeys one ſhort cloth, ac<g ref="char:EOLhyphen"/>cording to the Book of Rates.</note> For every ſhort Cloth according to the Book of Rates 6</item>
+               <item>For every Minikin Bay 6</item>
+               <item>For every Double Bay 3</item>
+               <item>For every ſingle Bay 2</item>
+               <item>For every pound weight of old and new Drapery that is Entred and pays by weight, half a farthing</item>
+               <item>For every doz. Mens Stockings half a peny.</item>
+               <item>For every doz. child. ditto and Ends of ditto, 1 <hi>farthing.</hi>
+               </item>
+               <item>For every 100 Goads of Cotton 6 <hi>d.</hi>
+               </item>
+               <item>For every 100 yds of Flannels 4</item>
+               <item>For every 100 yds of Freeze 8</item>
+               <item>For every pair of Blankets half a peny.</item>
+               <item>For every Rugg, half a peny.</item>
+            </list>
+            <p>And for all ſorts of Woollen or part Woollen Manufactures that are Chargeable by the <hi>Statutes</hi> or Book of Rates which are not here before-mentioned or included, do pay a ſix part more than they are Chargeable by the ſaid <hi>Statutes</hi> or Book of Rates as aforeſaid.</p>
+            <p>And if theſe Rates as above be Added to and Collected with the preſent Cuſtoms, it will not be a greater Duty upon the Woollen Manufactures Exported than is now paid (taking one ſort of <hi>Woollen Manufacture</hi> with the other) The difference will onely be, the Duty is now paid in two ſeveral Places, and then it will be paid at one, which will be both for the <hi>Country</hi>'s <hi>Eaſe</hi> and the <hi>Crown</hi>'s <hi>Advantage.</hi>
+            </p>
+            <p>Great Endeavours have been uſed, and Applications made by the preſent <hi>Farmers</hi> and their <hi>Agents</hi> to hinder if poſſi<g ref="char:EOLhyphen"/>ble the Effecting of what is here propoſed, and do by all ways and means induſtriouſly Miſrepreſent the deſign thereof, and Object.</p>
+            <p>That what is propoſed will not be ſufficient to anſwer the Intereſt of the Crown, <note place="margin">Objection.</note> and of all other Perſons that have a Legal Right and Title to the Profits ariſing by vertue thereof. For,
+<list>
+                  <item>Firſt, <hi>That in a time of War the Duty if Collected at the</hi> Cuſtom-Houſe, <hi>will come to little.</hi>
+                  </item>
+                  <item>Secondly, <hi>That in a time of Peace it will not be ſufficient to anſwer the</hi> Farmers <hi>for their Interest, they making above</hi> 3000 l. per Annum <hi>clear of all Rent and Charges.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>As to the firſt Objection its anſwered, <note place="margin">Anſwer.</note> That by Accounts taken out of the <hi>Cuſtom-Houſe</hi> Books it doth appear that if the Duty propoſed had been Collected with the Reſt of the Kings Cuſtoms from <hi>Dec.</hi> 25. 88. to <hi>Dec.</hi> 25. 89. it would have amounted to above 5000 <hi>l.</hi> And by Accounts likewiſe taken from <hi>Dec.</hi> 25. 89. to <hi>Nov.</hi> 1. 90. it doth appear that the Cuſtoms for the Port of <hi>London</hi> are higher than they were for the ſame ſpace of time in the preceding Year.</p>
+            <p>As to the ſecond Objection it is anſwered, That the Methods which the <hi>Farmers</hi> have taken to raiſe their Profits to this height, are ſo well known to all Perſons Converſant with the Dealers in the Woollen Manufacture that 'tis feared it would be as tedious as unnecceſſary to enter into a particular demonſtration, But ſhall onely obſerve, That if they have made above 3000 <hi>l. per Annum,</hi> they have already got well by the Bargain; So that in caſe no further allowance be made they will be no looſers with reference to the Fine by them paid.</p>
+            <p>It muſt be confeſſed that what is propoſed will not be ſufficient to anſwer the <hi>Farmers</hi> demands, But whether for the ſake of theſe <hi>Farmers</hi> (Pretended or Real Profits) the <hi>Subjects</hi> ſhall be ſtill continued under the Oppreſſion, and Burden, they have ſo long, and ſo juſtly complained of, is with ſubmiſſion left to the Wiſdom of the Parliament.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
